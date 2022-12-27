@@ -1,0 +1,31 @@
+_repo: The-place-of-magic-in-the-intellectual-history-of-Europe-studies-in-history-economics-and-pub__69622
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thorndike, Lynn
+    birthdate: 1882
+    deathdate: 1965
+    gutenberg_agent_id: '54214'
+    url: http://www.gutenberg.org/2009/agents/54214
+    wikipedia: https://en.wikipedia.org/wiki/Lynn_Thorndike
+description: ''
+gutenberg_issued: '2022-12-23'
+identifiers:
+  gutenberg: '69622'
+language: en
+pgterms:marc904: https://archive.org/details/placeofmagicinin00thoruoft
+pgterms:marc905: 20200610101501thorndike
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Columbia university press,1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The place of magic in the intellectual history of Europe: studies in history,
+  economics and public law edited by the faculty of political science of Columbia
+  University'
+url: http://www.gutenberg.org/ebooks/69622
