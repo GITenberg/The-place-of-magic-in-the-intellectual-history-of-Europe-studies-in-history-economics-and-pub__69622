@@ -1,5 +1,8 @@
 _repo: The-place-of-magic-in-the-intellectual-history-of-Europe-studies-in-history-economics-and-pub__69622
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69622-h/images/cover.jpg
 creator:
   author:
     agent_name: Thorndike, Lynn
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54214
     wikipedia: https://en.wikipedia.org/wiki/Lynn_Thorndike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69622#The-place-of-magic-in-the-intellectual-history-of-Europe-studies-in-history-economics-and-pub_
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69622'
